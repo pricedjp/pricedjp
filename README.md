@@ -22,7 +22,7 @@ I am a data analyst with a background in sales operations and business intellige
 
 *SQL* — PostgreSQL, DuckDB, window functions, CTEs, data warehouse design
 
-*Excel* — Power Query, Power Pivot, DAX, VBA, dynamic arrays, pivot tables
+*Excel* — Power Query, Power Pivot, DAX, Python in Excel, dynamic arrays, pivot tables
 
 *Data Engineering* — ETL pipelines, SQLAlchemy, star schema design, DuckDB
 
