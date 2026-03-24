@@ -8,7 +8,7 @@ I am a data analyst with a background in sales operations and business intellige
 
 **Current role:** Sales Operations Analyst — sales performance analytics, BI reporting, and Excel automation
 
-**Education:** M.S. Business Analytics, University of Texas at Rio Grande Valley
+**Education:** M.S. Business Analytics, The University of Texas Rio Grande Valley
 
 **Location:** East Bay, CA
 
