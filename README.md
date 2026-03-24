@@ -1,71 +1,63 @@
-# Dustin Price — Supply Chain Data Scientist
+# Dustin Price
 
-**Transitioning from Sales Analytics & Business Intelligence → Supply Chain Data Science**
+**Supply Chain Data Scientist** | Transitioning from Sales Analytics to Supply Chain Data Science
 
-I'm a data analyst with a background in sales operations and business intelligence, currently building a focused portfolio of supply chain analytics projects to demonstrate technical depth in Python, SQL, and data engineering. My goal is a role as a Supply Chain Data Scientist or Analyst where I can apply quantitative methods to real operations problems — inventory optimization, demand planning, procurement analytics, and supply chain risk.
+I am a data analyst with a background in sales operations and business intelligence, building a portfolio of supply chain analytics projects. My goal is a Supply Chain Data Scientist or Analyst role where I can apply Python, SQL, and data engineering skills to inventory optimization, demand planning, procurement analytics, and supply chain risk.
 
 ---
 
-## Background
+**Current role:** Sales Operations Analyst — sales performance analytics, BI reporting, and Excel automation
 
-- **Current role:** Sales Operations Analyst — pipeline analytics, BI reporting, Excel automation
-- - **Education:** M.S. Business Analytics
-  - - **Location:** East Bay, CA
-    - - **Target roles:** Supply Chain Data Scientist · SC Analyst · Operations Data Analyst
-     
-      - ---
+**Education:** M.S. Business Analytics, University of Texas at Rio Grande Valley
 
-      ## Technical Skills
+**Location:** East Bay, CA
 
-      | Category | Tools & Technologies |
-      |---|---|
-      | **Python** | Pandas, NumPy, Plotly, Streamlit, Dash, Matplotlib, Scikit-learn |
-      | **SQL** | PostgreSQL, DuckDB, window functions, CTEs, data warehouse design |
-      | **Excel** | Power Query, Power Pivot, DAX, VBA, dynamic arrays, pivot tables |
-      | **Data Engineering** | ETL pipelines, SQLAlchemy, star schema design, DuckDB |
-      | **SC Domain** | Inventory optimization, demand forecasting, procurement analytics, SC finance |
+**Target roles:** Supply Chain Data Scientist, SC Analyst, Automation Analyst, Industrial Engineer
 
-      ---
+---
 
-      ## Portfolio Projects
+**Technical Skills**
 
-      ### 01 · [sc-inventory-optimizer](https://github.com/pricedjp/sc-inventory-optimizer)
-      > Supply chain inventory optimization — EOQ, safety stock, ABC/XYZ analysis with interactive Streamlit dashboard
-      >
-      > Multi-SKU inventory analysis system built with Pandas and DuckDB. Calculates economic order quantity, reorder points, and safety stock across a simulated 500-SKU dataset. ABC/XYZ segmentation, inventory turn analysis, and carrying cost modeling. Deployed as an interactive Streamlit app.
-      >
-      > `pandas` `numpy` `plotly` `streamlit` `duckdb` — *in progress*
-      >
-      > ---
-      >
-      > ### 02 · [sc-demand-forecasting](https://github.com/pricedjp/sc-demand-forecasting)
-      > > Demand forecasting pipeline — moving average, Holt-Winters, and Prophet modeling with Plotly Dash app
-      > >
-      > > Time series forecasting system comparing three modeling approaches on a simulated retail demand dataset. Seasonal decomposition, MAPE/RMSE/MAE model evaluation, and an interactive Plotly Dash app with SKU-level filtering and model selection.
-      > >
-      > > `pandas` `statsmodels` `prophet` `plotly` `dash` `duckdb` — *in progress*
-      > >
-      > > ---
-      > >
-      > > ### 03 · [sc-procurement-analytics](https://github.com/pricedjp/sc-procurement-analytics)
-      > > > Procurement spend analytics — supplier scorecards, Pareto analysis, and SQL data warehouse using DuckDB
-      > > >
-      > > > End-to-end procurement analytics system on a 3-year simulated purchase order dataset. Star schema data warehouse, spend analysis using CTEs and window functions, supplier scorecards, price purchase variance tracking, and Python-generated Excel reports via openpyxl.
-      > > >
-      > > > `pandas` `duckdb` `plotly` `dash` `openpyxl` `sqlalchemy` — *in progress*
-      > > >
-      > > > ---
-      > > >
-      > > > ## Why Supply Chain?
-      > > >
-      > > > Supply chains are fundamentally data problems — demand is uncertain, lead times vary, inventory ties up capital, and disruptions cascade. My sales operations background gives me commercial intuition that most data scientists lack: I understand how forecast errors translate to missed revenue, how inventory decisions affect working capital, and how to frame analytical findings for operational stakeholders.
-      > > >
-      > > > This portfolio is my proof of work.
-      > > >
-      > > > ---
-      > > >
-      > > > ## Connect
-      > > >
-      > > > - **Email:** price.djp@gmail.com
-      > > > - - **Location:** East Bay, CA
-      > > >   - - **Open to:** Full-time SC Data Scientist / Analyst roles
+*Python* — Pandas, NumPy, Plotly, Streamlit, Dash, Matplotlib, Scikit-learn
+
+*SQL* — PostgreSQL, DuckDB, window functions, CTEs, data warehouse design
+
+*Excel* — Power Query, Power Pivot, DAX, VBA, dynamic arrays, pivot tables
+
+*Data Engineering* — ETL pipelines, SQLAlchemy, star schema design, DuckDB
+
+*SC Domain* — Inventory optimization, demand forecasting, procurement analytics, SC finance
+
+---
+
+**Portfolio Projects**
+
+*01 — [sc-inventory-optimizer](https://github.com/pricedjp/sc-inventory-optimizer)*
+
+Supply chain inventory optimization using EOQ, safety stock, and ABC/XYZ analysis with an interactive Streamlit dashboard. Built with Pandas, NumPy, Plotly, and DuckDB. In progress.
+
+*02 — [sc-demand-forecasting](https://github.com/pricedjp/sc-demand-forecasting)*
+
+Demand forecasting pipeline comparing moving average, Holt-Winters, and Prophet models. Includes MAPE/RMSE/MAE evaluation and an interactive Plotly Dash app. In progress.
+
+*03 — [sc-procurement-analytics](https://github.com/pricedjp/sc-procurement-analytics)*
+
+Procurement spend analytics with supplier scorecards, Pareto analysis, and a SQL data warehouse using DuckDB. Includes Python-generated Excel reports via openpyxl. In progress.
+
+---
+
+**Why Supply Chain?**
+
+Supply chain professionals combat chaos and use data to solve urgent problems where demand is uncertain, lead times vary, inventory ties up capital, and unexpected disruptions compound. My sales operations background gives me commercial intuition that most data scientists lack — I understand how forecast errors translate to missed revenue, how inventory decisions affect working capital, and how to frame analytical findings for operational stakeholders.
+
+This portfolio was built to both demonstrate and refresh my skills as I work to complete this transition.
+
+---
+
+**Contact**
+
+Email: price.djp@gmail.com
+
+Location: East Bay, CA
+
+Open to full-time SC Data Scientist and Analyst roles.
